@@ -1,5 +1,5 @@
-# CheckSlimeChunk Utility 1.0
-> Written April 25, 2021
+# CheckSlimeChunk Utility
+> Initially written April 25, 2021
 > by [Jonas Kohl](https://jonaskohl.de/)
 
 This code is released under the public domain. Based on the code posted on the [Minecraft Wiki](https://minecraft.fandom.com/wiki/Slime#Java_Edition).
